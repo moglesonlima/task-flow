@@ -21,13 +21,13 @@ O TaskFlow é um aplicativo web de código aberto para gerenciamento de tarefas,
 1. Clone este repositório:
 
     ```
-    git clone https://github.com/seu-usuario/taskflow.git
+    git clone https://github.com/moglesonlima/task-flow.git
     ```
 
 2. Navegue até o diretório do projeto:
 
     ```
-    cd taskflow
+    cd task-flow
     ```
 
 3. Instale as dependências do frontend e do backend:
